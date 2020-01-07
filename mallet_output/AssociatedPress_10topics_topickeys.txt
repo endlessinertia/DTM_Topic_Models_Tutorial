@@ -1,0 +1,10 @@
+0	0,08916	air miles officials flight area plane water space southern coast ship river north aircraft spokesman national today navy hours rain 
+1	0,11476	court case attorney judge trial charges prison law federal drug department office investigation justice told convicted district death jury charged 
+2	0,12893	school world don time family york home mrs wife john day good life american city women film won man children 
+3	0,138	health children report program study work medical department officials public school environmental aids city university time care research hospital make 
+4	0,09995	market prices dollar rose stock billion cents oil higher rates price trading rate lower late trade index fell average york 
+5	0,12885	united soviet states military east west iraq war foreign germany officials talks bush american countries world israel german aid union 
+6	0,11105	police killed city army night officials man today shot reported authorities miles hospital injured group soldiers spokesman attack monday military 
+7	0,11753	bush house dukakis campaign senate committee republican budget congress sen democratic reagan jackson vote administration rep presidential national support members 
+8	0,12652	company billion workers corp business pay employees bank plan companies industry union offer federal contract board announced share money chairman 
+9	0,09185	party soviet political gorbachev south africa communist national country leader opposition minister rights union elections african power human leaders members 
